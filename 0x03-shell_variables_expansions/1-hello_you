@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $cfa1b32d804a"
+echo "hello $MYUSER"
